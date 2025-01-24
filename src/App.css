@@ -10,6 +10,7 @@ body {
   margin: 0; /* Remove default margins */
   padding: 0; /* Remove default padding */
   font-family: Arial, sans-serif; /* Optional: Set a global font */
+  color: black;
 }
 
 .logo {

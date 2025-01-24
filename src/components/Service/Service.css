@@ -1,0 +1,23 @@
+.text{
+
+    color: brown;
+
+}
+
+.btn{
+
+    background-color: rgb(138, 47, 241);
+    
+}
+.btn:hover{
+
+    background-color: chocolate;
+}
+.card{
+
+
+    border: 2px solid black;
+    font-weight: bold;
+    color: crimson;
+    border-radius: 10px;
+}
