@@ -1,9 +1,11 @@
 
 import './App.css'
 import DataVar from './components/DataVariable/DataPass';
+import Data from './components/Fetch/Fetch';
 import Home from './components/Home/Home'
 import Service from './components/Service/Service';
 import Change from './components/UseState/UseState';
+
 
 
 
@@ -39,6 +41,8 @@ function App() {
          <DataVar product = {product} ></DataVar>)
       }
        <Change></Change>
+
+        <Data></Data>
     </>
   )
 
